@@ -1,3 +1,4 @@
 # Portfolio
 ## Narzędzia
-* Jira 
+* Jira
+* SQL
