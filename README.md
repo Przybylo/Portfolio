@@ -1,6 +1,7 @@
 # Portfolio
 ## Narzędzia
 * Jira
+* Trello
 * SQL
 ## Kursy, szkolenia
 * Warsztaty QA z Adam Gola
