@@ -13,3 +13,6 @@
 * Warsztaty testowania manualnego z Mają Malinowską
 * testy eksploracyjne; przypadki testowe; wyszukiwanie błędów, raportowanie
 
+## Konferencje
+* Test Dive Kraków
+
