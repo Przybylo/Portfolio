@@ -14,5 +14,5 @@
 * testy eksploracyjne; przypadki testowe; wyszukiwanie błędów, raportowanie
 
 ## Konferencje
-* Test Dive Kraków
+* Test Dive Kraków - konferencja 
 
