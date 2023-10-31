@@ -7,11 +7,12 @@
 * ITIL Foundation - certyfikat
 * Prince2 Foundation - certyfikat
 ## Kursy, szkolenia
-* Warsztaty QA z Adam Gola
+* Warsztaty QA z Adam Gola 10.2023
   QA vs klient - testowanie aplikacji sklepu internetowego, testowanie manualne, współpraca z klientem, praca w grupie
 * https://gs.statcounter.com, Lighthouse, Wave, BrowserStack, Sizzy
 * Warsztaty testowania manualnego z Mają Malinowską
 * testy eksploracyjne; przypadki testowe; wyszukiwanie błędów, raportowanie
+* Warsztaty testowania Quality Island 31.10.2023
 
 ## Konferencje
 * Test Dive Kraków - konferencja 2023
