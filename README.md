@@ -15,6 +15,6 @@
 
 ## Konferencje
 * Test Dive Kraków - konferencja 2023
-* 
+* Tester summit 31.10.2023
 * *
 
