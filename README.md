@@ -2,7 +2,7 @@
 ## Narzędzia
 * Jira
 * Trello
-* SQL - podstawy
+* SQL - podstawy, ukończone kursy
 * ISTQB - wiedza z sylabusa
 * ITIL Foundation - certyfikat
 * Prince2 Foundation - certyfikat
