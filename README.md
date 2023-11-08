@@ -22,4 +22,4 @@
 * *
 
 ## Webinary
-* 07.11.2023 Sages
+* 07.11.2023 -Jak znaleźć pierwszą pracę w IT? - firma Sages
