@@ -13,6 +13,7 @@
 * Warsztaty testowania manualnego z Mają Malinowską
 * testy eksploracyjne; przypadki testowe; wyszukiwanie błędów, raportowanie
 * Warsztaty testowania Quality Island 31.10.2023
+* Dzień z życia testera oprogramowania - 11.11.2023
 * kurs Udemy
 
 ## Konferencje
