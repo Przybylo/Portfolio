@@ -4,7 +4,7 @@
 * Trello
 * SQL - podstawy, ukończone kursy
 * ISTQB - wiedza z sylabusa
-* ITIL Foundation - certyfikat
+* ITIL Foundation - certyfikat, level fundation
 * Prince2 Foundation - certyfikat
 ## Kursy, szkolenia
 * Warsztaty QA z Adam Gola 10.2023
