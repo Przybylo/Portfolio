@@ -20,7 +20,7 @@
 * Test Dive Kraków - konferencja 2023
 * Tester summmit 31.10.2023 konferencja
 * 
-* *
+* 
 
 ## Webinary
 * 07.11.2023 -Jak znaleźć pierwszą pracę w IT? - firma Sages
