@@ -15,7 +15,7 @@
 * Warsztaty testowania Quality Island 31.10.2023
 * Dzień z życia testera oprogramowania - 11.11.2023
 * kurs Udemy
-  ** Rafał Podraża - Testowanie oprogramowania w praktyce - in progress
+* Rafał Podraża - Testowanie oprogramowania w praktyce - in progress
 
 ## Konferencje
 * Test Dive Kraków - konferencja 2023
