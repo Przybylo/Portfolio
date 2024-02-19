@@ -16,7 +16,7 @@
 * Dzień z życia testera oprogramowania - 11.11.2023
 * kurs Udemy
 * Rafał Podraża - Testowanie oprogramowania w praktyce - in progress
-* Kurs SQL - organizowane przez Girls Code Fun - Natalia 13 i 15.02.2024
+* Kurs SQL - organizowane przez Girls Code Fun - Natalia Mizerska 13 i 15.02.2024
 
 ## Konferencje
 * Test Dive Kraków - konferencja 2023
