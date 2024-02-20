@@ -21,7 +21,7 @@
 ## Konferencje
 * Test Dive Kraków - konferencja 2023
 * Tester summmit 31.10.2023 konferencja
-* Konferencja online BugHuntFest 23.01.24
+* Konferencja online BugHuntFest 23.01.2024
 * 
 
 ## Webinary
