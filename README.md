@@ -3,6 +3,7 @@
 * Jira
 * Trello
 * SQL - podstawy, ukończone kursy
+* Postman
 * ISTQB - wiedza z sylabusa
 * ITIL Foundation - certyfikat, level fundation
 * Prince2 Foundation - certyfikat
