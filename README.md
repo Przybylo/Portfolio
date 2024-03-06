@@ -18,7 +18,7 @@
 * kurs Udemy
 * Rafał Podraża - Testowanie oprogramowania w praktyce - in progress
 * Kurs SQL - organizowane przez Girls Code Fun - Natalia Mizerska 13 i 15.02.2024
-* Wirtualny Uni Testerski z Jolanta Klima - 02.2024 in progress
+* Wirtualny Uni Testerski z Jolanta Klima - 02.2024 in progress - zagadnienia z ISTQB
 
 ## Konferencje
 * Test Dive Kraków - konferencja 2023
