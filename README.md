@@ -1,6 +1,6 @@
 # Portfolio
 ## Narzędzia
-* Jira
+* Jira - praca ze zgłoszeniami
 * Trello
 * SQL - podstawy, ukończone kursy
 * Postman
