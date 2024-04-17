@@ -1,7 +1,7 @@
 # Portfolio
 ## Narzędzia
 * Jira - praca ze zgłoszeniami
-* Trello
+* Trello - zgłoszenia
 * SQL - podstawy, ukończone kursy
 * Postman
 * ISTQB - wiedza z sylabusa
