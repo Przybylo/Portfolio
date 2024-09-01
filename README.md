@@ -4,7 +4,7 @@
 * Trello - zgłoszenia
 * SQL - podstawy, ukończone kursy
 * Postman
-* ISTQB - wiedza z sylabusa
+* ISTQB - wiedza z sylabusa, zapoznanie z rodzajami testów
 * ITIL Foundation - certyfikat, level fundation
 * Prince2 Foundation - certyfikat
 ## Kursy, szkolenia
