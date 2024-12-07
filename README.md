@@ -26,6 +26,7 @@
 * Tester summmit 31.10.2023 konferencja
 * Konferencja online BugHuntFest 23.01.2024
 * 
+* 
 
 ## Webinary
 * 07.11.2023 -Jak znaleźć pierwszą pracę w IT? - firma Sages
