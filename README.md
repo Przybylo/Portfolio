@@ -20,6 +20,7 @@
 * Kurs SQL - organizowane przez Girls Code Fun - Natalia Mizerska 13 i 15.02.2024
 * Wirtualny Uni Testerski z Jolanta Klima - 02.2024 in progress - zagadnienia z ISTQB; rózne rodzaje testów; podejście do testowania; narzędzia testerkie; zagadnienia związane z testowaniem manualnym;
 * 07.05.24 - kurs SELENIUM z Mateusz Olszowy
+* Navoica
 
 ## Konferencje
 * Test Dive Kraków - konferencja 2023
