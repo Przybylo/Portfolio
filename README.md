@@ -3,4 +3,4 @@
 * https://www.sqlcalendar.com/app/advent-calendar
 
 * sql
-
+* PFP szkolenie SQL 29.12.2024
