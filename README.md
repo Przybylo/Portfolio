@@ -8,3 +8,4 @@
 * SQL https://app.easy.tools/players/sql-darmowe-szkolenie?file=9412 08.02.2025
 * Power BI: jak zrobić raport, który i tak wszyscy wyeksportują do Excela - kanał discord Polskie Programistki 10.02.2025
 * kurs Mistrz Excel - Udemy
+* kurs
