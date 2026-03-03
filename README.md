@@ -10,3 +10,4 @@
 * kurs Mistrz Excel - Udemy
 * kurs
 sql
+* https://www.kursysql.pl/szkolenie-sql-w-120-minut/
